@@ -40,7 +40,7 @@ Execução
 
 Clone o repositório:
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/xxedtz/portf-lio-motion.git
 
 Acesse a pasta do projeto:
 
